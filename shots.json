@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&size=wide&layout=hero&grade=sunset&caption=Sunset%20Heist&subtitle=Palm%20City%20after%20dark&photos=pier,boulevard,pier&offsets=-0.7,-0.75,0.5&oxs=0,0,0.2&zooms=1,1,1.4","w":1280},{"h":1000,"name":"2-editor.jpg","query":"?shot=editor&size=wide&layout=hero&grade=sunset&caption=Boulevard%20Queen&subtitle=Palm%20City%20after%20dark&photos=boulevard,pier,boulevard&offsets=-0.75,-0.7,-0.75","w":1280},{"h":1280,"name":"3-cover.jpg","query":"?shot=cover&size=portrait&layout=trio&grade=neon&caption=Neon%20Nights&subtitle=Downtown%20lights&photos=pier,boulevard,pier&offsets=-0.75,-0.8,0.4&oxs=0,0,-0.2&zooms=1,1,1.5","w":1024},{"h":1024,"name":"4-square.jpg","query":"?shot=cover&size=square&layout=grid&grade=golden&caption=Palm%20City&subtitle=Golden%20hour%20heist&photos=boulevard,pier,boulevard,pier&offsets=-0.2,0,-0.3,0.3&oxs=0,0,0,0.3&zooms=1,1,1.5,1.5","w":1024}]
